@@ -1,0 +1,1 @@
+Getting started with Go I suppose. Hope This is a good place to dive in!
